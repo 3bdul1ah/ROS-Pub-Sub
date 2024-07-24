@@ -1,0 +1,8 @@
+prefix=/home/abdullah/catkin_worksoace_1/devel
+
+Name: pubsub_code
+Description: Description of pubsub_code
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

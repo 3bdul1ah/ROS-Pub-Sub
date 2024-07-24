@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240723-1542-Experimental"
+	Name="ubuntu20"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="ubuntu20"
+	OSRelease="5.15.0-116-generic"
+	OSVersion="#126~20.04.1-Ubuntu SMP Mon Jul 1 15:40:07 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="126"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7598"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1200"
+	>
+	<Testing>
+		<StartDateTime>Jul 23 23:42 +08</StartDateTime>
+		<StartTestTime>1721749332</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 23 23:42 +08</EndDateTime>
+		<EndTestTime>1721749332</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
